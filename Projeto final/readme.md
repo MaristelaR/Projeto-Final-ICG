@@ -1,6 +1,6 @@
 # Simulador de Sistema Solar 3D em OpenGL
 
-![Demonstração do Sistema Solar](./imagens/imagem1.png)
+
 
 Este projeto consiste em uma simulação interativa e tridimensional do Sistema Solar, desenvolvida como projeto prático para a disciplina de **Computação Gráfica** na **UFPB**. A implementação utiliza **C++** e **OpenGL** para explorar conceitos fundamentais como modelagem de objetos, transformações geométricas, iluminação dinâmica e mapeamento de texturas.
 
@@ -17,7 +17,13 @@ A aplicação renderiza um modelo dinâmico do sistema planetário, integrando a
 * **Controle de Oclusão:** Uso rigoroso do **Z-buffer** (`GL_DEPTH_TEST`) para garantir que a renderização respeite a sobreposição correta dos objetos no espaço 3D.
 * **Visualização Flexível:** Opção de exibir ou ocultar as linhas das órbitas para melhor análise das trajetórias.
 
+--
+
+## Imagens da simulação
+
+![Demonstração do Sistema Solar](./imagens/imagem1.png)
 ![Detalhes das órbitas e texturas](./imagens/imagem2.png)
+![Demonstração do Sistema Solar](./imagens/imagem3.png)
 
 ---
 
