@@ -19,6 +19,16 @@ A aplicação renderiza um modelo dinâmico do sistema planetário, integrando a
 
 --
 
+## Links das fontes das texturas e proporções do sistema solar
+
+* [**Solar System Scope Textures:**](https://www.solarsystemscope.com/textures/) Repositório de texturas planetárias.
+
+* [**NASA - Planet Sizes and Locations:**](https://science-nasa-gov.translate.goog/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) Referência detalhada sobre a física dos corpos celestes.
+
+
+
+---
+
 ## Imagens da simulação
 
 ![Demonstração do Sistema Solar](./imagens/imagem1.png)
@@ -52,8 +62,6 @@ O projeto foi construído seguindo os requisitos evolutivos da disciplina:
 * **Aula 04:** Sistema de iluminação com componentes ambiente e difusa; uso de `GL_EMISSION` para o Sol.
 * **Aula 05:** Carregamento de texturas externas e configuração de Mipmaps para suavização.
 * **Aula 06:** Lógica de órbitas baseada em funções paramétricas de seno e cosseno.
-
-![Visualização de Iluminação e Câmera](./imagens/imagem3.png)
 
 ---
 
